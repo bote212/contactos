@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="add_menu">Add</string>
+    <string name="id_add_menu">add</string>
+    <string name="id_share_menu">share</string>
+    <string name="share_menu">Share</string>
+    <string name="id_delete_menu">delete</string>
+    <string name="delete_menu">Delete</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
